@@ -1,0 +1,14 @@
+{
+  "name": "web-sever",
+  "version": "1.0.0",
+  "description": "Lite-Server in NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-js-web-server"
+  ],
+  "author": "ThangNH",
+  "license": "ISC"
+}
