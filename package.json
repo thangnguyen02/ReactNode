@@ -10,5 +10,8 @@
     "node-js-web-server"
   ],
   "author": "ThangNH",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
